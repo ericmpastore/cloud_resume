@@ -2,3 +2,8 @@
     Style Sheet for Cloud Resume
 */
 
+#contact_list
+{
+    border: 1px solid black;
+    float: right;
+}
