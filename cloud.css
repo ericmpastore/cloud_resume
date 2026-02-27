@@ -2,22 +2,6 @@
     Style Sheet for Cloud Resume
 */
 
-/*
-	Site Colors:
-	Black:        #0D0D0D
-	Almost White: #F2F2F2
-	Charcoal:     #262626
-	Light Gray:   #737373
-	Red:          #F20505
-	
-	New Colors:
-	Red:          #DC3522
-	Off-White:    #D9CB9E
-	Gray: 	      #374140
-	Charcoal:     #2A2C2B
-	Black:        #1E1E20
-	
-*/
 .inprogress
 {
 	background-color: #ccc;
@@ -212,13 +196,14 @@ table a:link
 
 a:link
 {
-	color: #F7FFF7;
-	text-decoration: none;
+	color: #343434;
+	text-decoration: underline;
+    font-weight: bold;
 }
 
 a:visited
 {
-	color: #F7FFF7;
+	color: #2F3061;
 	text-decoration: none;
 }
 
